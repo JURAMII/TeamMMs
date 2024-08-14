@@ -4,7 +4,7 @@
 (반응형 구현 및 PWA 적용이 완료되었습니다.)
 
 # 👻개발기간
-2024.07.08 - 08.09
+2024.07.08 - 08.06
 <br/><br/>notion : https://hickory-rise-dcc.notion.site/M-ms-f15088a98d7a4877ae928b365a5686ae?pvs=74
 
 # 👻Stacks

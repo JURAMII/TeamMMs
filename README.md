@@ -48,7 +48,7 @@ useState와 삼항연산자로 구현.
 <br/>출석체크의 달력은 react-calendar 라이브러리 사용. Random 함수를 사용하여 새로고침 할 때마다 도장의 캐릭터가 바뀌도록 구현.
 
 
-# 📈기획 ppt
+# 👻기획 ppt
 ![슬라이드1](https://github.com/user-attachments/assets/eeabe1cd-c2ad-47f2-b58c-6a50811317d2)
 ![슬라이드2](https://github.com/user-attachments/assets/18f41891-dc3d-4f12-89af-413e2c73ba0e)
 ![슬라이드3](https://github.com/user-attachments/assets/36d37202-d544-4019-9186-fd3477276d65)

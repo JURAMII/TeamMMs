@@ -14,7 +14,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-and fiber & kakao & swiper & react-js-pagination & bizcharts & recharts & react-calendar
+and React Three Fiber & kakao & swiper & react-js-pagination & bizcharts & recharts & react-calendar
 
 
 # 👻Team M&M's_JURAMII

@@ -3,11 +3,11 @@
 
 (반응형 구현 및 PWA 적용이 완료되었습니다.)
 
-# 📈개발기간
+# 👻개발기간
 2024.07.08 - 08.09
 <br/><br/>notion : https://hickory-rise-dcc.notion.site/M-ms-f15088a98d7a4877ae928b365a5686ae?pvs=74
 
-# 📈Stacks
+# 👻Stacks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -16,7 +16,7 @@
 and fiber & kakao & swiper & react-js-pagination & bizcharts & recharts & react-calendar
 
 
-# 📈Team M&M's_JURAMII
+# 👻Team M&M's_JURAMII
 
 #### 푸터
 사이트 로고를 filter의 grayscale 100%를 적용하여 흑백으로 만들어 사용

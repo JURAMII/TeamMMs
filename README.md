@@ -1,4 +1,5 @@
-# 캐치! 수학 몬스터즈
+<img src="https://github.com/user-attachments/assets/b649a782-8475-4aa9-8623-560dfad44bc1" />
+
 초등 수학 학습 플랫폼 사이트 입니다. 
 
 (반응형 구현 및 PWA 적용이 완료되었습니다.)

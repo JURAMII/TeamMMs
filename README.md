@@ -19,33 +19,46 @@ and React Three Fiber & kakao & swiper & react-js-pagination & bizcharts & recha
 
 # 👻Team M&M's_JURAMII
 
-#### 푸터
+#### 1.푸터
 사이트 로고를 filter의 grayscale 100%를 적용하여 흑백으로 만들어 사용
 
-#### 학습하기 - 학습영상
+#### 2.학습하기 - 학습영상
 비디오링크와 썸네일을 담은 더미데이터를 만들어서 map 함수를 통해 단원 선택 페이지를 구현.
 <br/>링크에 id를 담아 useParams를 사용하여 각각의 강의영상 페이지로 이동.
 <br/>비디오태그에 autoplay와 controls를 추가하여 자동재생과 사용자가 직접 동영상을 조절할 수 있도록 함.
 
-#### 학습하기 - 질문하기
+![학습](https://github.com/user-attachments/assets/24b6cee8-c2e8-437b-8bc4-580a889ce2a1)
+![학습2](https://github.com/user-attachments/assets/cbe7097f-47db-4795-b35e-9d054fa779bc)
+
+
+#### 3.학습하기 - 질문하기
 useState와 삼항연산자로 구현. 모달창 형식.
 <br/>textarea에 useRef와 if문을 사용하여 질문 내용을 작성하지 않거나 10글자 미만일 경우에는 경고창을 띄우도록 함.
 
-#### 학습하기 - 힌트보기
+![질문](https://github.com/user-attachments/assets/ae03c152-0453-4557-8d5b-2d28705a2bfb)
+
+#### 4.학습하기 - 힌트보기
 useState와 삼항연산자로 구현. 
 <br/>힌트 내용을 변수로 받아서 각각의 문제에 맞는 힌트가 나오도록 구현.
 
-#### 알림나무 - 공지사항&이벤트 게시판
+![힌트](https://github.com/user-attachments/assets/583bb153-d97c-412b-b850-5923b62700af)
+
+
+#### 5.알림나무 - 공지사항&이벤트 게시판
 더미데이터를 만들고, CRUD 및 검색기능에 대한 switch문을 Reducer에 담아 각각의 기능들에 대한 함수를 만듦. 
 <br/>useContext를 통해 데이터와 함수를 리스트페이지, 상세 페이지에 전달하여 CRUD 및 검색 기능을 구현. 
 <br/>작성 페이지는 커스텀 훅을 만들어 onChange이벤트에 활용.
 <br/>페이지네이션은 react-js-pagination 라이브러리를 사용.
 <br/>검색 기능은 게시글 제목을 기준으로 filter 작동. 사용자의 편의성을 위해 onKeyDown 이벤트를 추가하여 검색 버튼 대신 엔터키로도 검색이 가능하게 구현.
 
-#### 학부모코너 - 학습현황
+#### 6.학부모코너 - 학습현황
 도넛 차트는 알리바바의 bizcharts, 바 차트는 recharts 라이브러리 사용.
 <br/>단원 별 점수 부분은 테이블 태그로 구현.
 <br/>출석체크의 달력은 react-calendar 라이브러리 사용. Random 함수를 사용하여 새로고침 할 때마다 도장의 캐릭터가 바뀌도록 구현.
+
+![현황](https://github.com/user-attachments/assets/97a32c4a-a16d-4e92-bbc6-67a0b9e5304d)
+![출석](https://github.com/user-attachments/assets/44b45560-d9cb-4997-b33b-716c66dc1b12)
+
 
 
 # 👻기획 ppt
